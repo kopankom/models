@@ -90,3 +90,5 @@ ENV/
 
 # PyCharm
 .idea/
+
+samples/core/get_started/model*
